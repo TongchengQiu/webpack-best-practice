@@ -84,7 +84,7 @@ var config = {
   },
   plugins: plugins,
   resolve: {
-    extensions: ['', '.js', 'jsx'],
+    extensions: ['', '.js', '.jsx'],
   },
   devtool: isProduction()?null:'source-map',
 };
