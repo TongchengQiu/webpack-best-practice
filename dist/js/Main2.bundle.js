@@ -1,9 +1,1 @@
-webpackJsonp([1,2],[
-/* 0 */
-/***/ function(module, exports) {
-
-	"use strict";
-
-/***/ }
-]);
-//# sourceMappingURL=Main2.bundle.js.map
+webpackJsonp([1,2],[function(c,n){"use strict"}]);
